@@ -1,9 +1,9 @@
-Usage
+創建與刪除伺服器
 =====
 
-.. _installation:
+.. _創建伺服器:
 
-Installation
+創建伺服器
 ------------
 
 To use Lumache, first install it using pip:
