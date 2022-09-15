@@ -14,6 +14,5 @@
 ----------------
 
 也是在Discord開客服單.w.
-.. image:: ./4F4481EC-F3EC-4505-A1E9-C08E196878AC.jpeg
-  :width: 200px
+![image](4F4481EC-F3EC-4505-A1E9-C08E196878AC.jpeg)
 
