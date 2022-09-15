@@ -8,7 +8,7 @@
 
 在Discord開客服單
 
-.. image:: ./4F4481EC-F3EC-4505-A1E9-C08E196878AC.jpeg
+.. image:: ./2FC57437-037B-45D8-8001-52C02499680D.jpeg
   :width: 200px
 
 刪除伺服器
@@ -16,5 +16,6 @@
 
 也是在Discord開客服單.w.
 
-![image](4F4481EC-F3EC-4505-A1E9-C08E196878AC.jpeg)
+.. image:: ./2FC57437-037B-45D8-8001-52C02499680D.jpeg
+  :width: 200px
 
