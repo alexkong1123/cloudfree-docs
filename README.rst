@@ -1,8 +1,7 @@
 CloudFree Docs
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+關於「CloudFree | 免費托管DC bot」的文檔
 
 CloudFree (CF) Docs here:
 
