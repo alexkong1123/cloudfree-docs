@@ -1,7 +1,7 @@
 Ticket 表格
 =====
 
-```Discord名稱：\n
+```Discord名稱：
 Panel名稱：
 語言<py/js>：
 用途：
