@@ -4,6 +4,6 @@ CloudFree Docs
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.
 
-Read the tutorial here:
+CloudFree (CF) Docs here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://docs.cloudfree.host
