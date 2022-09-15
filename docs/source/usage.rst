@@ -6,13 +6,9 @@
 創建伺服器
 ------------
 
-To use Lumache, first install it using pip:
+在Discord開客服單
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
+刪除伺服器
 ----------------
 
 To retrieve a list of random ingredients,
