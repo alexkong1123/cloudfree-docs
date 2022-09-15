@@ -2,8 +2,8 @@ Ticket 表格
 =====
 
 双冒号方式 ::
-Discord名稱：
-Panel名稱：
-語言<py/js>：
-用途：
-我同意規則<y/n>：
+   Discord名稱：
+   Panel名稱：
+   語言<py/js>：
+   用途：
+   我同意規則<y/n>：
