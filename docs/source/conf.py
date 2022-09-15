@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'CloudFree | 免費托管DC Bot'
+copyright = '2022, CloudFree'
 author = 'Graziella'
 
 release = '0.1'
