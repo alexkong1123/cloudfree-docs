@@ -14,6 +14,4 @@ Ticket 表格
    
 .. toctree::
 
-   usage
-   api
-   ticket_form
+   
