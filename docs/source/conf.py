@@ -4,7 +4,7 @@
 
 project = 'CloudFree | 免費托管DC Bot'
 copyright = '2022, CloudFree'
-author = 'Graziella'
+author = '團隊成員'
 
 release = '0.1'
 version = '0.1.0'
