@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+歡迎來到CloudFree 文檔
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
