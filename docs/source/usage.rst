@@ -21,3 +21,7 @@
 .. image:: ./2FC57437-037B-45D8-8001-52C02499680D.jpeg
   :width: 200px
 
+.. toctree::
+   usage
+   api
+   ticket_form
