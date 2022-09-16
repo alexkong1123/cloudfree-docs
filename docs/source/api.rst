@@ -4,4 +4,6 @@ API
 .. autosummary::
    :toctree: generated
 
-   lumache
+   usage
+   api
+   ticket_form
