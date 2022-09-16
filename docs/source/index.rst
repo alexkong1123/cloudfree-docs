@@ -19,5 +19,4 @@ Contents
 .. toctree::
 
    usage
-   api
    ticket_form
